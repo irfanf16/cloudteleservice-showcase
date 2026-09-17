@@ -24,12 +24,6 @@ Backend engineer
 **Schema evolution.** `doctrine/dbal` for safe in-place migrations against live appointment data.
 
 
-## Screenshots
-
-<!-- ![Practitioner Calendar](docs/practitioner-calendar.png) -->
-<!-- ![Booking Flow](docs/booking-flow.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
