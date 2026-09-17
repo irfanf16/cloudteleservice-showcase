@@ -7,7 +7,7 @@ Appointment scheduling for remote healthcare — practitioner calendars, patient
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Backend engineer — scheduling logic, queue architecture and third-party calendar/payment integration.
+Backend engineer
 
 ## Engineering highlights
 
